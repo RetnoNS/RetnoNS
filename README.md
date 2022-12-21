@@ -93,10 +93,13 @@ int main (){
  --------------------------------------
 
  Jumlah Baris : 2
+	
  Jumlah Kolom : 2
 
  Masukan Angka :
+	
 105
+	
 35
 7
 420
