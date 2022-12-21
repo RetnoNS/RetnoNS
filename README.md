@@ -2,7 +2,7 @@
 <br>Mata Kuliah 	: Dasar Pemrogrman
 <br>Nama		: Retno Nissa Salsabillah
 <br>NIM		: 1227050114	
-<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 Program  ini dibuat untuk memenuhi Ujian Akhir Semester Mata Kuliah Dasar Pemrograman.
@@ -73,13 +73,13 @@ int main (){
 	for (int r=1; r<=brs; r++){
 		for (int s=1; s<=klm; s++){
 			if (muncul [s][r] %3 == 0 && muncul [s][r] %5 == 0 && muncul [s][r] %7 == 0) {
-				cout <<"habis dibagi 3, 5 dan 7: " << muncul[s][r]<<" " << endl;
+				cout <<"habis dibagi 3, 5 dan 7 : " << muncul[s][r]<<" " << endl;
 			}
 			else if (muncul [s][r] %5 == 0 && muncul [s][r] %7 == 0){
-				cout <<"habis dibagi 5 dan 7: " << muncul[s][r]<<" " << endl;
+				cout <<"habis dibagi 5 dan 7 : " << muncul[s][r]<<" " << endl;
 			}  
 			else if (muncul [s][r] %7 == 0){
-				cout <<"habis dibagi 7: " << muncul[s][r]<<" " << endl;
+				cout <<"habis dibagi 7 : " << muncul[s][r]<<" " << endl;
 			}
 		}
 	}
@@ -110,7 +110,7 @@ int main (){
  <br>7       		420
 	
  <br>Angka Yang Habis Dibagi 3, 5, 7 adalah :
-<br>habis dibagi 3, 5 dan 7: 105
-<br>habis dibagi 5 dan 7: 35
-<br>habis dibagi 7: 7
-<br>habis dibagi 3, 5 dan 7: 420
+<br>habis dibagi 3, 5 dan 7 : 105
+<br>habis dibagi 5 dan 7 : 35
+<br>habis dibagi 7 : 7
+<br>habis dibagi 3, 5 dan 7 : 420
