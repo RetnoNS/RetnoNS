@@ -1,8 +1,8 @@
 # Ujian Akhir Semester 
-Mata Kuliah 	: Dasar Pemrogrman
-Nama		: Retno Nissa Salsabillah
-NIM		: 1227050114	
-Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>Mata Kuliah 	: Dasar Pemrogrman
+<br>Nama		: Retno Nissa Salsabillah
+<br>NIM		: 1227050114	
+<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 Program  ini dibuat untuk memenuhi Ujian Akhir Semester Mata Kuliah Dasar Pemrograman.
@@ -86,31 +86,31 @@ int main (){
 }
 ## Output
 	
- --------------------------------------
- Nama  : Retno Nissa Salsabillah
- NIM   : 1227050114
- Kelas : IF-C
- --------------------------------------
+<br> --------------------------------------
+ <br>Nama  : Retno Nissa Salsabillah
+ <br>NIM   : 1227050114
+ <br>Kelas : IF-C
+ <br>--------------------------------------
 
- Jumlah Baris : 2
- Jumlah Kolom : 2
+ <br> Baris : 2
+ <br>Jumlah Kolom : 2
 
- Masukan Angka :	
-105	
-35	
-7
-420
+ <br>Masukan Angka :	
+<br>105	
+<br>35	
+<br>7
+<br>420
 	
- Hasil Inputan Asli :
- 105  	7
- 35      420
+ <br>Hasil Inputan Asli :
+<br>105  	7
+ <br>35      420
 
- Hasil Inputan Kebalikannya :
- 105     35
- 7       420
+ <br>Hasil Inputan Kebalikannya :
+ <br>105     35
+ <br>7       420
 	
- Angka Yang Habis Dibagi 3, 5, 7 adalah :
-habis dibagi 3, 5 dan 7: 105
-habis dibagi 5 dan 7: 35
-habis dibagi 7: 7
-habis dibagi 3, 5 dan 7: 420
+ <br>Angka Yang Habis Dibagi 3, 5, 7 adalah :
+<br>habis dibagi 3, 5 dan 7: 105
+<br>habis dibagi 5 dan 7: 35
+<br>habis dibagi 7: 7
+<br>habis dibagi 3, 5 dan 7: 420
