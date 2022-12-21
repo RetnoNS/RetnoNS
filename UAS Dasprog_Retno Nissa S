@@ -5,7 +5,9 @@ NIM		: 1227050114
 Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-Dibawah ini terdapat dua program. Didalam program ini terdapat fungsi array dan pengulangan for. Program yang pertama untuk menginput nilai baris dan kolom lalu hasil nilai baris dan kolom ini dibalik dari kolom menjadi baris.
+Program  ini dibuat untuk memenuhi Ujian Akhir Semester Mata Kuliah Dasar Pemrograman.
+Dibawah ini terdapat dua program. Didalam program ini terdapat fungsi array dan pengulangan for. 
+Program yang pertama menginputkan nilai baris dan kolom lalu hasil nilai baris dan kolom ini dibalik dari kolom menjadi baris.
 Program yang kedua untuk mencari nilai yang ddapat dibagi 3, 5, dan 7 dari hasil inputan untuk baris dan kolom.
 
 ## Source Code
@@ -83,3 +85,31 @@ int main (){
 	}
 }
 ## Output
+ --------------------------------------
+ Nama  : Retno Nissa Salsabillah
+ NIM   : 1227050114
+ Kelas : IF-C
+ --------------------------------------
+
+ Jumlah Baris : 2
+ Jumlah Kolom : 2
+
+ Masukan Angka :
+105
+35
+7
+420
+
+ Hasil Inputan Asli :
+ 105     7
+ 35      420
+
+ Hasil Inputan Kebalikannya :
+ 105     35
+ 7       420
+
+ Angka Yang Habis Dibagi 3, 5, 7 adalah :
+habis dibagi 3, 5 dan 7: 105
+habis dibagi 5 dan 7: 35
+habis dibagi 7: 7
+habis dibagi 3, 5 dan 7: 420
