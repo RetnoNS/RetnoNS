@@ -102,12 +102,12 @@ int main (){
 <br>420
 	
  <br>Hasil Inputan Asli :
-<br>105  	<br>7
- <br>35     <br>420
+<br>105  		7
+ <br>35     		420
 
  <br>Hasil Inputan Kebalikannya :
- <br>105     <br>35
- <br>7       <br>420
+ <br>105     		35
+ <br>7       		420
 	
  <br>Angka Yang Habis Dibagi 3, 5, 7 adalah :
 <br>habis dibagi 3, 5 dan 7: 105
