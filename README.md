@@ -93,39 +93,24 @@ int main (){
  --------------------------------------
 
  Jumlah Baris : 2
-	
  Jumlah Kolom : 2
 
- Masukan Angka :
-	
-105
-	
-35
-	
+ Masukan Angka :	
+105	
+35	
 7
-	
 420
 	
-
  Hasil Inputan Asli :
-	
  105  	7
-	
  35      420
 
  Hasil Inputan Kebalikannya :
-	
  105     35
-	
  7       420
-
+	
  Angka Yang Habis Dibagi 3, 5, 7 adalah :
-	
 habis dibagi 3, 5 dan 7: 105
-	
 habis dibagi 5 dan 7: 35
-	
 habis dibagi 7: 7
-	
 habis dibagi 3, 5 dan 7: 420
-	
