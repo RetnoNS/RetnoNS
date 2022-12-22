@@ -11,6 +11,7 @@ Program yang pertama menginputkan nilai baris dan kolom lalu hasil nilai baris d
 Program yang kedua untuk mencari nilai yang ddapat dibagi 3, 5, dan 7 dari hasil inputan untuk baris dan kolom.
 
 ## Source Code
+```
 #include <iostream>
 using namespace std;
 
@@ -84,6 +85,7 @@ int main (){
 		}
 	}
 }
+```
 ## Output
 	
 <br> --------------------------------------
